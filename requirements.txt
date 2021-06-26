@@ -1,0 +1,6 @@
+fire
+glob
+opencv-python
+tensorflow
+scikit-learn
+matplotlib
